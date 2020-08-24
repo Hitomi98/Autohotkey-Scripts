@@ -1,0 +1,5 @@
+; This script disables the windows key
+LWin & vk07::return
+LWin::return
+RWin & vk07::return
+RWin::return
